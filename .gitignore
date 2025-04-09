@@ -6,4 +6,5 @@
 **/lib
 **/lib64
 
+python\ experiments/
 __pycache__/
