@@ -10,4 +10,8 @@
 python\ experiments/
 __pycache__/
 
+rust/
+helix/
+bandit/
+
 pyvenv.cfg
